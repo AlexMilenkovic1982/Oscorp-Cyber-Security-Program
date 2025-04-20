@@ -42,7 +42,7 @@ A structured assessment was conducted using the NIST Cybersecurity Framework. Ea
 
 You can view the detailed scoring and rationale in the Excel spreadsheet:
 
-📄 [Oscorp NIST Cyber Security Assessment.xlsx](https://docs.google.com/spreadsheets/d/1M6k5MX0BlfiTa3lXWgNPmN6VJEOZwXc6/edit?usp=sharing&ouid=114160154605914535053&rtpof=true&sd=true)
+📄 [Oscorp NIST Cyber Security Assessment.xlsx](https://docs.google.com/spreadsheets/d/1Bvla_iRgkNlwBqxTB4T-ID766OeEFxgO/edit?usp=sharing&ouid=114160154605914535053&rtpof=true&sd=true)
 
 The scores reflect a generally reactive security posture. Most controls are informal, undocumented, or inconsistently applied. Detect and Respond were the lowest scoring functions, reflecting the absence of SIEM and incident playbooks.
 
